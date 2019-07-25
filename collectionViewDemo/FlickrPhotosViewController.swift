@@ -73,6 +73,8 @@ extension FlickrPhotosViewController {
     }
     
     //3
+    
+    //TODO: Start here tomorrow morning. This data needs to be fed to the snapshot. But how?
     override func collectionView(
         _ collectionView: UICollectionView,
         cellForItemAt indexPath: IndexPath
